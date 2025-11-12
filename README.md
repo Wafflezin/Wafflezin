@@ -17,7 +17,7 @@ Sou curioso, focado e adoro aprender coisas novas, principalmente na área de **
 
 ### 🔭 Experiência de Estágio
 💻 **Estágio em TI – Câmpus Ponta Porã**  
-📅 **Período:** 05/05/2025 até 31/05/2025  
+📅 **Período:** 05/05/2025 até 25/08/2025  
 📌 **Atividades principais:**
 - Verificação e manutenção de computadores.
 - Suporte em softwares e sistemas da instituição.
