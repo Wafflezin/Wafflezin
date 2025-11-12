@@ -5,7 +5,7 @@
 ---
 
 🚀 **Sobre Mim**  
-Sou curioso, focado e adoro aprender coisas novas, principalmente na área de **tecnologia, manutenção de computadores e software**. Estou sempre buscando crescer profissionalmente e me envolver em projetos que me desafiem. (๑•﹏•)
+Sou curioso, focado e adoro aprender coisas novas, principalmente na área de **tecnologia, manutenção de computadores e software**. Estou sempre buscando crescer profissionalmente e me envolver em projetos que me ajudem a aprender coisas novas
 
 💻 Atualmente tenho experiência em:
 
@@ -58,11 +58,9 @@ Sou curioso, focado e adoro aprender coisas novas, principalmente na área de **
   <a href="https://www.linkedin.com/in/santiago-ariel-dur%C3%A9-mendoza-365b34370/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="mailto:santiarieldm@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Email" width="40" height="40"/>
-  </a>
+  💌 Email: **santiarieldm@gmail.com** 
 </p>
 
 ---
 
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="250"/>
+<img src="https://tenor.com/view/kanna-sip-gif-13693395" width="250"/>
