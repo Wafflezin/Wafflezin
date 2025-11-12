@@ -53,14 +53,10 @@ Sou curioso, focado e adoro aprender coisas novas, principalmente na área de **
 
 ---
 
-### 🌐 Conecte-se Comigo
-<p>
-  <a href="https://www.linkedin.com/in/santiago-ariel-dur%C3%A9-mendoza-365b34370/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  💌 Email: **santiarieldm@gmail.com** 
-</p>
+### 📫 Contato
+- 💌 Email: **santiarieldm@gmail.com**  
+- 🔗 LinkedIn: [Meu LinkedIn](https://www.linkedin.com/in/santiago-ariel-dur%C3%A9-mendoza-365b34370/)  
 
 ---
 
-<img src="https://tenor.com/view/kanna-sip-gif-13693395" width="250"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXQxaXBmYTVzbzE4d2w4c2JuZm82aTZxeXhmemljcjQzaHdqYnd2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3UPNs8vXyJESQ/giphy.gif" width="250"/>
