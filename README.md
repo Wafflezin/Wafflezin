@@ -59,4 +59,9 @@ Sou curioso, focado e adoro aprender coisas novas, principalmente na área de **
 
 ---
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXQxaXBmYTVzbzE4d2w4c2JuZm82aTZxeXhmemljcjQzaHdqYnd2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3UPNs8vXyJESQ/giphy.gif" width="250"/>
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXQxaXBmYTVzbzE4d2w4c2JuZm82aTZxeXhmemljcjQzaHdqYnd2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3UPNs8vXyJESQ/giphy.gif" 
+       alt="Avatar de patinha" 
+       width="180" 
+       style="border-radius: 50%; border: 3px solid white; box-shadow: 0 0 10px rgba(0,0,0,0.3);"/>
+</p>
