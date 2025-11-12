@@ -1,9 +1,17 @@
-## Hi there 👋 I'm Waffle!
+<h1 align="center">Olá 👋, sou Waffle</h1>
 
-<img src="https://media.giphy.com/media/3o7TKP0H5M1shf0R9u/giphy.gif" width="200"/>
+<p align="center">Seja muito bem-vindo ao meu GitHub!</p>
 
-✨ **Um pouco sobre mim:**  
-Sou curioso, focado e adoro aprender coisas novas, principalmente na área de tecnologia e desenvolvimento. Atualmente estou explorando tudo sobre **TI, manutenção de computadores e software**, e sempre buscando crescer profissionalmente. (๑•﹏•)
+---
+
+🚀 **Sobre Mim**  
+Sou curioso, focado e adoro aprender coisas novas, principalmente na área de **tecnologia, manutenção de computadores e software**. Estou sempre buscando crescer profissionalmente e me envolver em projetos que me desafiem. (๑•﹏•)
+
+💻 Atualmente tenho experiência em:
+
+- Manutenção de computadores  
+- Suporte a sistemas e softwares  
+- Organização de recursos e documentação técnica  
 
 ---
 
@@ -15,28 +23,45 @@ Sou curioso, focado e adoro aprender coisas novas, principalmente na área de te
 - Suporte em softwares e sistemas da instituição.
 - Organização de recursos e documentação técnica.
 
-
 ---
 
-### 🌱 Habilidades & Aprendizado
-- 🖥️ Manutenção de computadores   
-- ⚡ Resolução de problemas técnicos  
-- 🤝 Trabalho em equipe  
-- 📚 Aprendizado rápido e contínuo  
+🌱 **Habilidades & Aprendizado**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+</p>
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="100" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
+</p>
 
 ---
 
 ### 💬 Sobre mim
-- 👀 Estou sempre curioso e buscando novos desafios  
-- 😄 Pronouns: Ele/Dele *Maybe a femb* 
-- 🎮 Gosto de games e a área de tecnologio 
-- ✨ Sempre tento aprender de forma rápida e interessante  
+- 👀 Sempre curioso e em busca de novos desafios  
+- 😄 Pronouns: Ele/Dele (*maybe femboy*)  
+- 🎮 Apaixonado por games e tecnologia  
+- ✨ Aprendo rápido e gosto de desafios interessantes  
 
 ---
 
-### 📫 Como me encontrar
-- 💌 Email: **santiarieldm@gmail.com** 
-- 🔗 LinkedIn: [Meu LinkedIn](https://www.linkedin.com/in/santiago-ariel-dur%C3%A9-mendoza-365b34370/)  
+### 🌐 Conecte-se Comigo
+<p>
+  <a href="https://www.linkedin.com/in/santiago-ariel-dur%C3%A9-mendoza-365b34370/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="mailto:santiarieldm@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Email" width="40" height="40"/>
+  </a>
+</p>
 
 ---
 
